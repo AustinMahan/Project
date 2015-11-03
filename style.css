@@ -1,0 +1,45 @@
+img{
+  height: 300px;
+  width: 300px;
+  background-color: white;
+}
+
+.picture1{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+}
+
+.picture2{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+}
+
+.picture3{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+}
+
+p{
+  text-align: center;
+  font-size: 25px;
+}
+
+
+.bigPicture{
+  height: 400px;
+  width: 1350px;
+}
+ .computer{
+   height: 300px;
+   width: 300px;
+ }
+
+ table{
+   text-align: center;
+ }
+ h1{
+   text-align: center;
+ }
